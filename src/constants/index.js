@@ -15,27 +15,27 @@
         description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste eos asperiores beatae odio molestias, tempora fuga consequuntur aut ipsa recusandae",
         technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
       },
-      {
-        year: "2022 - 2023",
-        role: "Lorem ipsum dolor sit amet",
-        company: "Lorem ipsum",
-        description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste eos asperiores beatae odio molestias, tempora fuga consequuntur aut ipsa recusandae",
-        technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
-      },
-      {
-        year: "2021 - 2022",
-        role: "Lorem ipsum dolor sit amet",
-        company: "Lorem ipsum",
-        description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste eos asperiores beatae odio molestias, tempora fuga consequuntur aut ipsa recusandae",
-        technologies: ["Python", "Svelte", "Three.js", "Postgres"],
-      },
-      {
-        year: "2020 - 2021",
-        role: "Lorem ipsum dolor sit amet",
-        company: "Paypal",
-        description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste eos asperiores beatae odio molestias, tempora fuga consequuntur aut ipsa recusandae",
-        technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
-      },
+      // {
+      //   year: "2022 - 2023",
+      //   role: "Lorem ipsum dolor sit amet",
+      //   company: "Lorem ipsum",
+      //   description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste eos asperiores beatae odio molestias, tempora fuga consequuntur aut ipsa recusandae",
+      //   technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+      // },
+      // {
+      //   year: "2021 - 2022",
+      //   role: "Lorem ipsum dolor sit amet",
+      //   company: "Lorem ipsum",
+      //   description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste eos asperiores beatae odio molestias, tempora fuga consequuntur aut ipsa recusandae",
+      //   technologies: ["Python", "Svelte", "Three.js", "Postgres"],
+      // },
+      // {
+      //   year: "2020 - 2021",
+      //   role: "Lorem ipsum dolor sit amet",
+      //   company: "Paypal",
+      //   description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste eos asperiores beatae odio molestias, tempora fuga consequuntur aut ipsa recusandae",
+      //   technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+      // },
     ];
 
     export const PROJECTS = [
