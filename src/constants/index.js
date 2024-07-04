@@ -31,9 +31,9 @@
       },
       {
         year: "2020 - 2021",
-        role: "Software Engineer",
+        role: "Lorem ipsum dolor sit amet",
         company: "Paypal",
-        description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
+        description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste eos asperiores beatae odio molestias, tempora fuga consequuntur aut ipsa recusandae",
         technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
       },
     ];
