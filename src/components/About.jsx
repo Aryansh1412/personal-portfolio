@@ -1,6 +1,6 @@
     import { ABOUT_TEXT } from "../constants"
     import {motion} from "framer-motion"
-    import aboutImg from "/Users/aryanshjain/Desktop/tail/my-project/src/assets/about.jpg"
+    import aboutImg from "../assets/about.jpg"
 
     const About = () => {
     return (

@@ -11,7 +11,7 @@
         }
     })
 
-
+import profilPics from "../assets/aryaimg.png"
     const Hero = () => {
     return (
         <div className="border-b border-neutral-900 pb-4 lg:mb-35">
@@ -40,7 +40,7 @@
                         <motion.img initial={{x:100, opacity:0}} 
                         animate={{x:0, opacity:1}}
                         transition={{duration:1, delay:1.2}}
-                        src="../assets/aryaimg.png" alt="Aryansh Jain " />
+                        src={profilPics} alt="Aryansh Jain " />
                     </div>
                 </div>
             </div>
