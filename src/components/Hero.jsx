@@ -10,7 +10,7 @@
 
         }
     })
-    import profilePic from "/Users/aryanshjain/Desktop/tail/my-project/src/assets/aryaimg.png"
+
 
     const Hero = () => {
     return (
@@ -40,7 +40,7 @@
                         <motion.img initial={{x:100, opacity:0}} 
                         animate={{x:0, opacity:1}}
                         transition={{duration:1, delay:1.2}}
-                        src={profilePic} alt="Aryansh Jain " />
+                        src="../assets/aryaimg.png" alt="Aryansh Jain " />
                     </div>
                 </div>
             </div>
