@@ -60,6 +60,13 @@
           "A personal portfolio website showcasing projects, skills, and contact information.",
         technologies: ["HTML", "CSS", "React", "Bootstrap"],
       },
+      {
+        title: "Portfolio Website",
+        image: project3,
+        description:
+          "A personal portfolio website showcasing projects, skills, and contact information.",
+        technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      },
       // {
       //   title: "Blogging Platform",
       //   image: project4,
