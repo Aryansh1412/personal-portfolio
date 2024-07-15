@@ -59,14 +59,14 @@
         image: project3,
         description:
         "A personal portfolio website showcasing projects, skills, and contact information.",
-        technologies: ["HTML", "CSS", "React", "Bootstrap"],
+        technologies: ["React JSX", "Tailwind CSS", "Framer Motion", "Bootstrap"],
       },
       {
         title: "RealTime Code-Editor",
         image: project5,
         description:
           "A real-time code editor application using React, enabling users to write, edit, and execute code collaboratively. WebSocket is used for real-time code sharing and editing",
-        technologies: ["React.js", "WebSocket", "CodeMirror", "Node.js(for backend)", "Express.js"],
+        technologies: ["React.js", "WebSocket", "CodeMirror", "Node.js","Nodemon",],
       },
       // {
       //   title: "Blogging Platform",
