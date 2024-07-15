@@ -3,6 +3,7 @@
     import project3 from "../assets/projects/project-3.jpg";
     import project4 from "../assets/projects/project-4.jpg";
     import project5 from "../assets/projects/project-5.jpg";
+    import project6 from "../assets/projects/project-6.png";
 
     export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
@@ -68,13 +69,13 @@
           "A real-time code editor application using React, enabling users to write, edit, and execute code collaboratively. WebSocket is used for real-time code sharing and editing",
         technologies: ["React.js", "WebSocket", "CodeMirror", "Node.js","Nodemon",],
       },
-      // {
-      //   title: "Blogging Platform",
-      //   image: project4,
-      //   description:
-      //     "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-      //   technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
-      // },
+      {
+        title: "Crop Prediction System",
+        image: project6,
+        description:
+          " A crop prediction system to forecast crop yields based on various factors such as soil health, weather conditions, and historical crop data.",
+        technologies: ["Python", "PyCharm", "Machine Learning (scikit-learn, TensorFlow)", "Data Analysis (Pandas, NumPy)","Data Vizualization (Matplotlib, Seaborn)"],
+      },
     ];
 
     export const CONTACT = {
